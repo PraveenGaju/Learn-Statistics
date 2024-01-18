@@ -1,0 +1,11 @@
+Match the Following:
+
+Selecting every 10th name from a list of registered voters. → Systematic Sampling,
+Blood type (A, B, AB, O) → Nominal,
+Characterstics of population → Parameter,
+Randomly selection 100 people from a population → Simple Random Sample,
+Selecting family and friends introduce → Bias,
+Customer satisfaction rating (poor, fair, good, excellent) → Ordinal,
+Characterstics of sample → Statistics,
+Salary of all employees → Continuous,
+Number of pets in a household (1, 2, 3, etc.) → Discrete

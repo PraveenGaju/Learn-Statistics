@@ -1,0 +1,53 @@
+# Statistics Week 1 Assignment
+
+Q1: As a bank manager you want to increase the number of credit card holders in your bank. You want to find the major differences between customers having credit cards and not having credit cards. Hence, you hired a statistician to perform all necessary steps to present the results. What will be the sequence of four steps required for a basic statistical analysis?
+
+Answer: Collection, analysis, interpretation and presentation.
+
+
+Q2: Statistician wants to perform a preliminary analysis. Hence, he wants to recruit 150 samples. Which sampling technique is best to use this approach? Please justify it.
+
+Answer: Systematic sampling technique may be a better approach. A mall may be these best as there will be more than 100 shops and people come there to buy stuffs and dining. Using simple random sampling may have some error as we recruit very a smaller number of people having credit card.
+
+
+Q3: Once the sample was recruited, the statistician's task is to identify important variables that may influence the credit card. He selected a few variables with help of a bank manager and other domain experts. One of the selected variables was the pin code (226022). What type of variable is pin code?
+
+Answer: Nominal
+
+
+Q4: Another important variable is socioeconomic status as it may influence the outcome variable (credit card vs no credit card). What type of variable is socioeconomic status?
+
+Answer: Ordinal
+
+
+Q5: Another important variable is age as it may influence the outcome variable (credit card vs no credit card). What type of variable is age?
+
+Answer: Continuous
+
+
+Q6: Another important variable is the year they first got a card. What type of variable is year?
+
+Answer: Continuous
+
+
+Q7: Please explain the difference between descriptive and inferential statistics in two sentences.
+
+Answer: Descriptive statistics is used to describe and summarize data, while inferential statistics is used to make inferences or predictions about a larger population based on a sample of data.
+
+
+
+
+Q8: Please explain the difference between parameter and statistics in two sentences.
+
+Answer: Parameter is used to examine the characteristics of a population, while statistics is used to examine the characteristics of a sample.
+
+
+Q9: What is the fundamental difference between continuous and discrete data?
+
+Answer: Discrete data represents count and intermediate values are not possible. Such as number of students in a class. We cannot have 40.5 students. Continuous data uses measures and intermediate values are always possible, such as SPO2 level (COVID19). Though we always see non-decimal values, decimal values are also possible.
+
+
+Q10: Why sampling techniques are necessary for a study?
+
+Answer: Sampling techniques are necessary to avoid bias in a study. If samples are not representing population, it will add bias. If there is a bias, machine learning prediction will go wrong for a new sample or replication of a study may fail.
+
